@@ -1,14 +1,14 @@
-# HotPans_Sample01_Client
-AngularJSとSpring Bootを使ったサンプルアプリケーション（クライアント側）です。
+# HotPans_LP_Client
+AngularJSとSpring Bootを使ったランディングページのサンプル（クライアント側）です。
 
 ## サンプルアプリケーションの使い方
 
 ### １．Android端末でサンプルアプリケーションを動作させる場合
 
-以下から .apkファイルをAndroid端末にダウンロードし、インストールしてください。  
-<https://intense-basin-2782.herokuapp.com/android/20150413011659-MainActivity-debug.apk>
+以下から .apkファイルをAndroid端末にダウンロードし、インストールしてください。
+<https://guarded-waters-9162.herokuapp.com/android/HotPans_LP_Client.apk>
 
 ### ２．PCのブラウザからサンプルアプリケーションを動作させる場合
 
-以下からアクセスしてください。  
-<https://intense-basin-2782.herokuapp.com/>
+以下からアクセスしてください。
+<https://guarded-waters-9162.herokuapp.com/>
